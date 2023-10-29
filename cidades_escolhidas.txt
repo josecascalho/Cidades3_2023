@@ -1,0 +1,15 @@
+Lisboa
+Evora
+Beja
+Setubal
+
+Lisboa - Evora 133
+Lisboa - Beja 176
+Lisboa - Setubal 49
+
+Evora - Beja 80
+Evora - Setubal 99
+
+Beja - Setubal 143
+
+3+2+1 = 6 
